@@ -23,6 +23,8 @@
 ![image](https://github.com/user-attachments/assets/57fbac1c-35ab-4b96-ae94-4b8f55be558e)
 ![image](https://github.com/user-attachments/assets/4513ac37-8fe8-417f-bc2a-6dd18775d26a)
 ![image](https://github.com/user-attachments/assets/f5dd928b-c42a-40b2-82b2-43f8554cb274)
+![image](https://github.com/user-attachments/assets/fe48cd2b-cdc0-432a-a49e-c0b7213b6b4c)
+
 
 ## 📁 Project Structure
 - `MessengerApp/` – WPF client application
