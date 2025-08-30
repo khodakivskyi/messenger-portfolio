@@ -2,14 +2,14 @@
 
 🛡 **Messenger for local networks**, built in pure C# using TCP/IP, MySQL, and WPF.
 
-## 🚀 Features
-- 🔐 User authentication and registration
-- 💬 Personal and group chats
-- 📎 File and image sharing
-- 👥 Online/offline user statuses
-- 🎨 Modern dark-themed UI inspired by Telegram
+## Features
+- User authentication and registration
+- Personal and group chats
+- File and image sharing
+- Online/offline user statuses
+- Modern dark-themed UI inspired by Telegram
 
-## ⚙️ Technologies Used
+## Technologies Used
 - **.NET 8**
 - **WPF** (desktop client)
 - **TCP/IP**
@@ -135,20 +135,3 @@ public async Task<(bool success, string message)> LoginAsync(string username, st
     }
 }
 ```
-
-## 🛠 How to Run
-1. Start the **MessengerServer** project.
-2. Launch the **MessengerApp** (WPF client).
-3. Make sure the client reads the correct `IP` and `Port` from `config.json`.
-4. Register a new user or log in with existing credentials.
-
-## 📌 Project Status
-> Under active development. Planned features include real-time messaging, emoji support, notifications, and better error handling.
-
-## 🔒 Source Code Availability
-This repository serves as a **portfolio preview** of the Messenger project.  
-The full source code is **not publicly available** to prevent misuse, but a **demo or access for review** can be provided upon request.
-
-## 👤 Author
-**[Andriy Khodakivskiy](https://github.com/khodakivskiy)**  
-Private GitHub repository – not open for public use yet.
